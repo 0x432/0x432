@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello Visitors 👋
 
-<!--
-**0x432/0x432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Caleb Bowden
 
-Here are some ideas to get you started:
+I am an Information Security Analyst based in Huddersfield, currently pursuing an MSc in Digital Forensics & Cyber Security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+For more information about my work, projects, and skills, please visit my [website](https://calebbowden.com).
+
+### What I Do
+
+- **Languages and Technologies:** Check out my website for a detailed list of the programming languages and technologies I am proficient in.
+- **Frameworks & Software / Distros:** Explore the frameworks, software, and distributions I frequently work with on my website.
+
+If you'd like to get in touch, feel free to email me at [calebbowden@riseup.net](mailto:calebbowden@riseup.net).
